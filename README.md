@@ -1,4 +1,4 @@
-# nist-csf-cis-control-mapping
+
 # NIST CSF 2.0 to CIS Controls v8.1 Mapping
 
 ## Project Overview
