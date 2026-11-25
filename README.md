@@ -4,8 +4,7 @@
 ## Project Overview
 
 This project explores the relationship between the NIST Cybersecurity Framework (CSF) 2.0 and CIS Critical Security Controls v8.1 from a Governance, Risk and Compliance (GRC) perspective.
-
-It demonstrates how practical cybersecurity safeguards can support strategic cybersecurity outcomes, helping organisations translate framework requirements and objectives into actionable security measures.
+It demonstrates how practical cybersecurity safeguards can support strategic cybersecurity outcomes, helping organizations translate framework requirements and objectives into actionable security measures.
 
 ## Objectives
 
@@ -20,13 +19,12 @@ It demonstrates how practical cybersecurity safeguards can support strategic cyb
 ### NIST Cybersecurity Framework 2.0
 
 NIST CSF 2.0 provides a structured approach to understanding, managing and reducing cybersecurity risk through six core functions:
-
-- Govern (GV)
-- Identify (ID)
-- Protect (PR)
-- Detect (DE)
-- Respond (RS)
-- Recover (RC)
+- Govern 
+- Identify 
+- Protect
+- Detect
+- Respond
+- Recover
 
 ### CIS Controls v8.1
 
@@ -35,8 +33,7 @@ The CIS Controls provide a prioritised set of actionable cybersecurity safeguard
 ## Project Scope
 
 The project examines 12 selected NIST CSF 2.0 subcategories across all six core functions and maps them to relevant CIS Controls v8.1 safeguards.
-
-The assessment focuses on conceptual alignment rather than organisational compliance or implementation maturity.
+The assessment focuses on conceptual alignment rather than organizational compliance or implementation maturity.
 
 ## Methodology
 
@@ -72,12 +69,10 @@ Each mapping includes a rationale, an implementation example, potential audit ev
 ## Limitations
 
 This project is an educational portfolio exercise. It does not represent an official framework crosswalk, a formal compliance assessment or a security audit.
-
-The alignment classifications are project-specific analytical judgments and do not establish framework equivalence or organisational compliance.
+The alignment classifications are project-specific analytical judgments and do not establish framework equivalence or organizational compliance.
 
 ## References
 
 - NIST Cybersecurity Framework 2.0
 - CIS Critical Security Controls v8.1
-
 Further references are available in references.md.
