@@ -17,7 +17,6 @@ It demonstrates how practical cybersecurity safeguards can support strategic cyb
 ## Frameworks
 
 ### NIST Cybersecurity Framework 2.0
-
 NIST CSF 2.0 provides a structured approach to understanding, managing and reducing cybersecurity risk through six core functions:
 - Govern 
 - Identify 
@@ -27,7 +26,6 @@ NIST CSF 2.0 provides a structured approach to understanding, managing and reduc
 - Recover
 
 ### CIS Controls v8.1
-
 The CIS Controls provide a prioritised set of actionable cybersecurity safeguards designed to help organisations protect their systems, networks and information assets.
 
 ## Project Scope
@@ -38,13 +36,11 @@ The assessment focuses on conceptual alignment rather than organizational compli
 ## Methodology
 
 Each mapping is evaluated using three alignment levels:
-
 | Alignment | Description |
 |---|---|
 | Strong | The safeguard directly and substantially supports the NIST outcome. |
 | Partial | The safeguard supports part of the outcome but additional measures may be necessary. |
 | No direct alignment | No directly relevant safeguard was identified within the reviewed scope. |
-
 Each mapping includes a rationale, an implementation example, potential audit evidence and coverage limitations.
 
 ## Repository Contents
